@@ -5,7 +5,7 @@ This extension is developed by **Tarun**.
 
 I am not an expert with Google Chrome Development and this is my first extension made ever. 
 
-<img src="block.png" alt="drawing" width="450"/> 
+
 
 # Features
 - **Spoiler Blocking**: Searches entire web page and replaces Spoilers with text `##[TEXT BLOCKED: SPOILER DETECTED]`
