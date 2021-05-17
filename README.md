@@ -1,5 +1,5 @@
 
-This extension will save you from reading any Money-Heistt Spoilers as well as visual images. 
+This extension will save you from reading any Money-Heist Spoilers as well as visual images. 
 
 This extension is developed by **Tarun**.
 
